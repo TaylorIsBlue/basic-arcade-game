@@ -180,5 +180,3 @@ function createAnimations() {
         characterAnimations.rule(Predicate.MovingLeft)
     )
 }
-
-
