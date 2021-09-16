@@ -1,5 +1,5 @@
 let cooldown = 10
-let mySprite =sprites.create(assets.image`h`, SpriteKind.Player)
+let mySprite = sprites.create(assets.image`h`, SpriteKind.Player)
 let cake = sprites.create(assets.image`pizza`, SpriteKind.Food)
 
 controller.moveSprite(mySprite)
