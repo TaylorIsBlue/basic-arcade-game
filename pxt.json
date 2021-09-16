@@ -1,8 +1,10 @@
 {
-    "name": "Chase the Pizza",
+    "name": "Chase the Pizza - Copy - Copy - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
